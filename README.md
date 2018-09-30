@@ -1,6 +1,6 @@
 # UnixFileSystem
 
-Implementation of Unix file system using FUSE (File System in User Space) library
+Implementation of Unix file system using FUSE (File System in User Space) library. The implementation ensures that the file system state is persistent across machine reboots or mount/unmount of file system.
 
 ## File System Overview
 
