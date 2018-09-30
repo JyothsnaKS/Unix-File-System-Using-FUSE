@@ -1,0 +1,54 @@
+start_emulator: memory allocated for disk blocks.
+create_super_block: Superblock created.
+create_inodes: Inodes created.
+create_free_blocks: Free block created.
+create_root_dir: root dir created.
+Yay! FS created.
+start_emulator: memory allocated for disk blocks.
+create_super_block: Superblock created.
+create_inodes: Inodes created.
+create_free_blocks: Free block created.
+create_root_dir: root dir created.
+Yay! FS created.
+start_emulator: memory allocated for disk blocks.
+create_super_block: Superblock created.
+create_inodes: Inodes created.
+create_free_blocks: Free block created.
+create_root_dir: root dir created.
+Yay! FS created.
+start_emulator: memory allocated for disk blocks.
+create_super_block: Superblock created.
+create_inodes: Inodes created.
+create_free_blocks: Free block created.
+create_root_dir: root dir created.
+Yay! FS created.
+Yay! FS created.
+create_root_dir: root dir created.
+create_free_blocks: Free block created.
+create_inodes: Inodes created.
+create_super_block: Superblock created.
+start_emulator: memory allocated for disk blocks.
+Yay! FS created.
+create_root_dir: root dir created.
+create_free_blocks: Free block created.
+create_inodes: Inodes created.
+create_super_block: Superblock created.
+start_emulator: memory allocated for disk blocks.
+Yay! FS created.
+create_root_dir: root dir created.
+create_free_blocks: Free block created.
+create_inodes: Inodes created.
+create_super_block: Superblock created.
+start_emulator: memory allocated for disk blocks.
+Yay! FS created.
+create_root_dir: root dir created.
+create_free_blocks: Free block created.
+create_inodes: Inodes created.
+create_super_block: Superblock created.
+start_emulator: memory allocated for disk blocks.
+Yay! FS created.
+create_root_dir: root dir created.
+create_free_blocks: Free block created.
+create_inodes: Inodes created.
+create_super_block: Superblock created.
+start_emulator: memory allocated for disk blocks.
